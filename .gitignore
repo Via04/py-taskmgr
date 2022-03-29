@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Python ###
+/venv/
+/uvenv/
+/__pycache__/
+
+### Distribution ###
+/build/
+/dist/
+taskmgr.spec
